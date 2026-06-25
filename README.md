@@ -5,7 +5,7 @@
 يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الْحُفَرِ
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="hobbyist developer" src="https://img.shields.io/badge/hobbyist%20developer-111827?style=flat-square" />
   <img alt="mostly TypeScript" src="https://img.shields.io/badge/mostly-TypeScript-3178C6?style=flat-square" />
   <img alt="coffee required" src="https://img.shields.io/badge/coffee-required-6F4E37?style=flat-square" />
