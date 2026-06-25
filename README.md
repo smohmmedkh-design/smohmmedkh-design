@@ -27,7 +27,7 @@ I’m interested in:
 
 ---
 
-## From service to interfaces
+## 🤍 From service to interfaces
 
 Before code became a hobby, I worked in executive and administrative roles within the field of honoring the deceased and serving their families.
 
