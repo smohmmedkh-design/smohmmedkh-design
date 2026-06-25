@@ -1,11 +1,13 @@
 # Sulaiman Alkhozaym
 
-> وَمَنْ يَتَهَيَّبْ صُعُودَ الْجِبَالِ
-> يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الْحُفَرِ
+<p align="right" dir="rtl">
+وَمَنْ يَتَهَيَّبْ صُعُودَ الْجِبَالِ<br/>
+يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الْحُفَرِ
+</p>
 
 Hobbyist developer building clean interfaces, practical digital tools, and Arabic-first web experiences.
 
-Currently exploring how ideas can move from rough workflows into usable products, from document tools to dashboards and screens 10ft away.
+Currently exploring how ideas can move from rough workflows into usable products, from document tools to dashboards and large-screen interfaces.
 
 ---
 
@@ -22,6 +24,37 @@ I’m interested in:
 * Practical web tools
 * Internal systems and dashboards
 * Turning messy workflows into usable software
+
+---
+
+## From service to interfaces
+
+Before code became a hobby, I worked in executive and administrative roles within the field of honoring the deceased and serving their families.
+
+It is a field I hold close to my heart. It taught me patience, responsibility, and the value of quiet work when people need dignity, care, and clarity.
+
+By Allah’s grace, that chapter became one of the reasons I found my way into building digital tools. The forms, reports, follow-ups, and daily operations eventually turned into a question I kept asking myself:
+
+can this be simpler?
+
+So I started building interfaces, dashboards, and small tools that try to make real work feel less heavy.
+
+<sub>from field work to forms, from forms to interfaces, from interfaces to whatever breaks next.</sub>
+
+---
+
+## 🌘 before sleep protocol
+
+```diff
++ found a tiny problem
++ fixed half of it
++ called it a baseline
+- ignored the other half responsibly
+- claimed tomorrow will be cleaner
++ opened a new idea at the worst possible time
+```
+
+<sub>ship a tiny fix, pretend the system is stable, repeat tomorrow.</sub>
 
 ---
 
@@ -45,7 +78,7 @@ A modern web presence for a marketing company, built around clear positioning, s
 
 ## Stack
 
-```txt id="readme-stack"
+```txt
 Frontend      Next.js · React · TypeScript · Tailwind CSS
 UI            shadcn/ui · Radix UI · Framer Motion
 Design        Figma · Illustrator · Cinema 4D
