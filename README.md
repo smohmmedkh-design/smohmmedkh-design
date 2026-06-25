@@ -5,6 +5,13 @@
 يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الْحُفَرِ
 </p>
 
+<p align="left">
+  <img alt="hobbyist developer" src="https://img.shields.io/badge/hobbyist%20developer-111827?style=flat-square" />
+  <img alt="mostly TypeScript" src="https://img.shields.io/badge/mostly-TypeScript-3178C6?style=flat-square" />
+  <img alt="coffee required" src="https://img.shields.io/badge/coffee-required-6F4E37?style=flat-square" />
+  <img alt="sleep negotiable" src="https://img.shields.io/badge/sleep-negotiable-374151?style=flat-square" />
+</p>
+
 Hobbyist developer building clean interfaces, practical digital tools, and Arabic-first web experiences.
 
 Currently exploring how ideas can move from rough workflows into usable products, from document tools to dashboards and large-screen interfaces.
@@ -15,7 +22,7 @@ Currently exploring how ideas can move from rough workflows into usable products
 
 Based in Al-Bukayriyah, Saudi Arabia.
 Most productive between `22:00` and `04:00`.
-Powered by coffee, questionable sleep, and the occasional padel loss.
+Powered by coffee, questionable sleep, and FC 2026 losses I bravely blame on lag, scripting, and absolutely never my defending.
 
 I’m interested in:
 
@@ -27,19 +34,32 @@ I’m interested in:
 
 ---
 
-## 🤍 From service to interfaces
+## current signal
 
-Before code became a hobby, I worked in executive and administrative roles within the field of honoring the deceased and serving their families.
+```txt
+status        building after hours
+focus         Arabic-first interfaces
+experiment    Naqsh PDF
+deployment    Vercel, because apparently servers needed a personality too
+```
+
+<sub>small tools, late hours, and the dangerous belief that one more fix will be enough.</sub>
+
+---
+
+## 🤍 From morning work to midnight interfaces
+
+In the morning, I work in executive and administrative roles within the field of honoring the deceased and serving their families.
 
 It is a field I hold close to my heart. It taught me patience, responsibility, and the value of quiet work when people need dignity, care, and clarity.
 
-By Allah’s grace, that chapter became one of the reasons I found my way into building digital tools. The forms, reports, follow-ups, and daily operations eventually turned into a question I kept asking myself:
+By Allah’s grace, that work became one of the reasons I found my way into building digital tools. The forms, reports, follow-ups, and daily operations eventually turned into a question I kept asking myself:
 
 can this be simpler?
 
-So I started building interfaces, dashboards, and small tools that try to make real work feel less heavy.
+So after the official workday, I build interfaces, dashboards, and small tools that try to make real work feel less heavy.
 
-<sub>from field work to forms, from forms to interfaces, from interfaces to whatever breaks next.</sub>
+<sub>morning: responsibility. midnight: interfaces. somewhere between them, coffee lies about having a plan.</sub>
 
 ---
 
