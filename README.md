@@ -5,13 +5,6 @@
 يَعِشْ أَبَدَ الدَّهْرِ بَيْنَ الْحُفَرِ
 </p>
 
-<p align="center">
-  <img alt="hobbyist developer" src="https://img.shields.io/badge/hobbyist%20developer-111827?style=flat-square" />
-  <img alt="mostly TypeScript" src="https://img.shields.io/badge/mostly-TypeScript-3178C6?style=flat-square" />
-  <img alt="coffee required" src="https://img.shields.io/badge/coffee-required-6F4E37?style=flat-square" />
-  <img alt="sleep negotiable" src="https://img.shields.io/badge/sleep-negotiable-374151?style=flat-square" />
-</p>
-
 Hobbyist developer building clean interfaces, practical digital tools, and Arabic-first web experiences.
 
 Currently exploring how ideas can move from rough workflows into usable products, from document tools to dashboards and large-screen interfaces.
@@ -31,19 +24,6 @@ I’m interested in:
 * Practical web tools
 * Internal systems and dashboards
 * Turning messy workflows into usable software
-
----
-
-## current signal
-
-```txt
-status        building after hours
-focus         Arabic-first interfaces
-experiment    Naqsh PDF
-deployment    Vercel, because apparently servers needed a personality too
-```
-
-<sub>small tools, late hours, and the dangerous belief that one more fix will be enough.</sub>
 
 ---
 
